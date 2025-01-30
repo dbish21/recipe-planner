@@ -24,3 +24,5 @@ yarn-error.log*
 
 #recipe-planner
 .env
+
+node_modules
